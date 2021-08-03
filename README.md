@@ -10,3 +10,13 @@ E.g., https://github.com/DENG-MIT/Stiff-PINN
 ## Neural Ordinary Differential Equations (NODE)
 
 E.g., https://github.com/DENG-MIT/StiffNeuralODE
+
+
+## List of problems
+
+### Ordinary Differential Equations
+ROBER
+POLLU
+
+### Partial Differential Equations
+RUSS
