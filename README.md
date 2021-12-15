@@ -13,15 +13,15 @@ Numerical stiffness refers to the challenges in numerically solving systems with
 
 ### Ordinary Differential Equations
 
-* ROBER (Python/Julia): A classical simple by challanging benchmarks for stiff solvers.
+* ROBER (Python/Julia): A classical simple yet challanging benchmarks for stiff solvers.
 
-* POLLU (Python/Julia): A classical simple by challanging benchmarks for stiff solvers.
+* POLLU (Python/Julia): A classical simple yet challanging benchmarks for stiff solvers.
 
 * Pyrolysis of Propane {Combustion | rely on Cantera} {Coming Soon}: A strong stiff system from the field of combustion.
 
 ### Partial Differential Equations
 
-* RUSS (Julia): A classical simple by challanging benchmarks for stiff solvers.
+* RUSS (Julia): A classical simple yet challanging benchmarks for stiff solvers.
 
 * One-dimensional Non-premixed Flame {Combustion | rely on Cantera} {Comming Soon}: A strong stiff system from the field of combustion.
 
